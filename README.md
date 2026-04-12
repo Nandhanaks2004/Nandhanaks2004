@@ -1,14 +1,17 @@
-# Nandhana K S
+<h1 align="center">Nandhana K S</h1>
+<h3 align="center">Cybersecurity Researcher | Penetration Testing | Multi-Domain Security | Practical Lab Development</h3>
 
-Cybersecurity Researcher | Penetration Testing | Multi-Domain Security | Practical Lab Development
+<p align="center">
+Focused on real-world attack simulation, vulnerability research, and building structured cybersecurity lab environments
+</p>
 
 ---
 
 ## Profile Overview
 
-I am a cybersecurity researcher with hands-on experience across multiple security domains, focusing on understanding real-world attack techniques and building practical environments for testing and learning.
+Cybersecurity researcher with hands-on experience across multiple domains, focused on analyzing real-world attack techniques and building controlled environments for practical security testing.
 
-My work emphasizes offensive security, vulnerability assessment, and developing structured lab environments to simulate real-world attack scenarios.
+Work is centered on offensive security, vulnerability assessment, and replicating real attack scenarios to understand exploitation paths and remediation strategies.
 
 ---
 
@@ -16,63 +19,64 @@ My work emphasizes offensive security, vulnerability assessment, and developing 
 
 ### Web Application Security
 
-* SQL Injection (Authentication Bypass, Data Extraction)
-* Cross-Site Scripting (Reflected, Stored)
-* Authentication and Session Management Issues
-* Input Validation and Business Logic Flaws
+* SQL Injection (authentication bypass, data extraction)
+* Cross-Site Scripting (reflected and stored)
+* Authentication and session management flaws
+* Input validation and business logic vulnerabilities
 
 ### Network Penetration Testing
 
-* Network Scanning and Enumeration
-* Service Identification and Exploitation
-* Firewall and Misconfiguration Analysis
+* Network scanning and service enumeration
+* Service identification and exploitation
+* Firewall analysis and misconfiguration discovery
 
 ### Active Directory Security
 
-* Enumeration of AD Environments
-* Credential Attacks and Privilege Escalation Concepts
-* Understanding of Kerberos-based attack vectors
+* Enumeration of domain environments
+* Credential-based attack concepts
+* Understanding Kerberos-related attack vectors
 
 ### API Security
 
-* Endpoint Enumeration
-* Broken Authentication and Authorization
-* Input Validation Issues in APIs
+* Endpoint discovery and enumeration
+* Broken authentication and authorization flaws
+* Input validation issues in API requests
 
 ### Android Security
 
-* Static and Dynamic Analysis Basics
-* Reverse Engineering Concepts
-* Identifying insecure data storage and permissions misuse
+* Static and dynamic analysis fundamentals
+* Reverse engineering concepts
+* Identification of insecure storage and permission misuse
 
 ### System / Machine Exploitation
 
-* Linux-based privilege escalation concepts
+* Linux privilege escalation concepts
 * Misconfiguration-based exploitation
 * Local enumeration techniques
 
-### Security Operations (SOC Concepts)
+### Security Operations (SOC)
 
 * Log analysis fundamentals
-* Threat detection and basic incident response workflow
+* Threat detection concepts
+* Basic incident response workflow
 
 ---
 
 ## Technical Skills
 
-Operating Systems:
+**Operating Systems**
 
 * Kali Linux
 * Ubuntu
 
-Tools and Technologies:
+**Security Tools**
 
 * Nmap
 * Metasploit
 * Burp Suite
 * Wireshark
 
-Programming and Scripting:
+**Programming and Scripting**
 
 * Python
 * Bash
@@ -83,61 +87,88 @@ Programming and Scripting:
 
 ### Vulnerable Lab Development
 
-* Designed and implemented vulnerable environments for:
-
-  * SQL Injection
-  * Cross-Site Scripting
-  * Weak Authentication
-* Used for hands-on exploitation and learning
+* Designed and implemented controlled vulnerable environments
+* Simulated SQL Injection, XSS, and weak authentication scenarios
+* Used for exploitation practice and concept validation
 
 ### Security Testing Practice
 
-* Performed vulnerability assessment on simulated systems
-* Identified and analyzed common security flaws
-* Practiced exploitation techniques and remediation approaches
+* Performed vulnerability assessments on simulated systems
+* Identified and analyzed common security weaknesses
+* Explored exploitation paths and remediation approaches
 
 ### Automation and Scripting
 
-* Developed scripts to automate reconnaissance and scanning tasks
+* Developed scripts for reconnaissance and scanning automation
 * Focused on improving efficiency in penetration testing workflows
+
+---
+
+## Key Projects
+
+### VulnAI
+
+Automated vulnerability assessment platform focused on detection, prioritization, and remediation of security issues in practical environments.
+
+### Threat Intelligence Project
+
+Focused on analyzing attacker behavior, threat patterns, and understanding real-world adversarial techniques.
+
+### JWT Learning Application
+
+Built to explore authentication mechanisms and token-based security, with practical implementation and analysis.
+
+### Cybersecurity Lab (HTML-based)
+
+Custom vulnerable lab designed for hands-on exploitation of SQL Injection, XSS, and authentication flaws.
 
 ---
 
 ## Research Approach
 
-My approach is based on structured offensive thinking:
+Structured offensive methodology:
 
 1. Identify attack surface
-2. Perform enumeration and data gathering
-3. Analyze weaknesses and misconfigurations
-4. Simulate exploitation
-5. Understand impact and root cause
-6. Map appropriate remediation
+2. Perform enumeration and data collection
+3. Analyze vulnerabilities and misconfigurations
+4. Simulate exploitation scenarios
+5. Evaluate impact and root cause
+6. Define and apply remediation strategies
 
 ---
 
 ## Learning Methodology
 
-I follow a practical, lab-driven learning model:
-
-* Concept → Real-world mapping → Hands-on exploitation → Root cause analysis
-* Each vulnerability is studied from both attacker and defender perspectives
-* Emphasis on repeatable lab environments for deeper understanding
+* Concept-driven learning mapped to real-world scenarios
+* Hands-on exploitation followed by root cause analysis
+* Focus on both attacker and defender perspectives
+* Lab-based approach for repeatable and practical understanding
 
 ---
 
-## Current Focus Areas
+## Current Focus
 
-* Advanced Web Exploitation Techniques
-* Active Directory Attack Chains
-* Automation of Vulnerability Assessment
-* Building structured cybersecurity training labs
+* Advanced web exploitation techniques
+* Active Directory attack chains
+* Security automation and workflow optimization
+* Development of structured cybersecurity training labs
+
+---
+
+## Lab Demonstrations
+
+Planned demonstrations include:
+
+* SQL Injection exploitation scenarios
+* Cross-Site Scripting payload execution
+* Network scanning and enumeration results
+* Vulnerability assessment outputs
 
 ---
 
 ## GitHub Metrics
 
-Add GitHub stats and contribution visuals here using:
+GitHub activity and statistics integrated using:
 
 * github-readme-stats
 * streak-stats
@@ -146,4 +177,6 @@ Add GitHub stats and contribution visuals here using:
 
 ## Contact
 
-LinkedIn: https://in.linkedin.com/in/nandhana-k-s-49b79827b
+LinkedIn
+https://in.linkedin.com/in/nandhana-k-s-49b79827b
+

@@ -1,177 +1,294 @@
-<h1 align="center">Nandhana K S</h1>
-<h3 align="center">Cybersecurity Researcher | Penetration Testing | Multi-Domain Security | Practical Lab Development</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,24243e&height=220&section=header&text=Nandhana%20K%20S&fontSize=42&fontColor=E0D9FF&animation=fadeIn" />
+</p>
+
+<h3 align="center">Cybersecurity Researcher • Offensive Security • Lab Developer</h3>
 
 <p align="center">
-Focused on real-world attack simulation, vulnerability research, and building structured cybersecurity lab environments
+Focused on real-world attack simulation & interactive security labs
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=A970FF&center=true&vCenter=true&width=650&lines=Offensive+Security+Researcher;Web+Exploitation+%7C+Network+Security;Building+Interactive+Cyber+Labs;OWASP+Top+10+Focused+Learning" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nandhanaks2004&show_icons=true&theme=radical&hide_border=true&border_radius=14&title_color=A970FF&icon_color=BB86FC" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandhanaks2004&theme=radical&hide_border=true&border_radius=14&ring=A970FF&fire=BB86FC" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandhanaks2004&layout=compact&theme=radical&hide_border=true&border_radius=14&title_color=A970FF"/>
 </p>
 
 ---
 
-## Profile Overview
+<h2 align="center">Domain Expertise</h2>
 
-Cybersecurity researcher with hands-on experience across multiple domains, focused on analyzing real-world attack techniques and building controlled environments for practical security testing.
+<table align="center">
+<tr>
 
-Work is centered on offensive security, vulnerability assessment, and replicating real attack scenarios to understand exploitation paths and remediation strategies.
+<td align="center" width="25%">
+<b>🔐 Web Security</b><br><br>
+SQLi<br>
+XSS<br>
+Auth Flaws<br>
+Logic Bugs
+</td>
+
+<td align="center" width="25%">
+<b>🌐 Network</b><br><br>
+Scanning<br>
+Enumeration<br>
+Exploitation<br>
+Firewall Analysis
+</td>
+
+<td align="center" width="25%">
+<b>🏢 Active Directory</b><br><br>
+Enumeration<br>
+Credentials<br>
+Kerberos
+</td>
+
+<td align="center" width="25%">
+<b>⚙️ API Security</b><br><br>
+Endpoints<br>
+Auth Issues<br>
+Input Validation
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<b>📱 Android</b><br><br>
+Static Analysis<br>
+Dynamic Analysis<br>
+Reverse Engg
+</td>
+
+<td align="center">
+<b>💻 System Exploitation</b><br><br>
+Priv Esc<br>
+Misconfig<br>
+Enumeration
+</td>
+
+<td align="center">
+<b>🛡️ SOC</b><br><br>
+Logs<br>
+Detection<br>
+Response
+</td>
+
+<td align="center">
+<b>⚡ Focus</b><br><br>
+Attack Simulation<br>
+Lab Development<br>
+</td>
+
+</tr>
+</table>
+---
+
+<h2 align="center">🟣 Technical Skills</h2>
+
+<p align="center">
+
+<!-- Operating Systems -->
+<img src="https://img.shields.io/badge/Kali_Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=A970FF"/>
+<img src="https://img.shields.io/badge/Ubuntu-1a1a2e?style=for-the-badge&logo=ubuntu&logoColor=BB86FC"/>
+
+<br><br>
+
+<!-- Web & Pentesting Tools -->
+<img src="https://img.shields.io/badge/Burp_Suite-1a1a2e?style=for-the-badge&logo=burpsuite&logoColor=A970FF"/>
+<img src="https://img.shields.io/badge/Nmap-1a1a2e?style=for-the-badge&logo=gnometerminal&logoColor=BB86FC"/>
+<img src="https://img.shields.io/badge/Metasploit-1a1a2e?style=for-the-badge&logo=metasploit&logoColor=A970FF"/>
+<img src="https://img.shields.io/badge/Wireshark-1a1a2e?style=for-the-badge&logo=wireshark&logoColor=BB86FC"/>
+
+<br><br>
+
+<!-- Advanced / Offensive Tools -->
+<img src="https://img.shields.io/badge/Mimikatz-1a1a2e?style=for-the-badge&logo=windows&logoColor=A970FF"/>
+<img src="https://img.shields.io/badge/John_the_Ripper-1a1a2e?style=for-the-badge&logo=hackthebox&logoColor=BB86FC"/>
+<img src="https://img.shields.io/badge/Hydra-1a1a2e?style=for-the-badge&logo=gnu&logoColor=A970FF"/>
+
+<br><br>
+
+<!-- Android Pentesting -->
+<img src="https://img.shields.io/badge/MobSF-1a1a2e?style=for-the-badge&logo=android&logoColor=BB86FC"/>
+<img src="https://img.shields.io/badge/Frida-1a1a2e?style=for-the-badge&logo=android&logoColor=A970FF"/>
+<img src="https://img.shields.io/badge/ADB-1a1a2e?style=for-the-badge&logo=android&logoColor=BB86FC"/>
+
+<br><br>
+
+<!-- Programming -->
+<img src="https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=A970FF"/>
+<img src="https://img.shields.io/badge/Bash-1a1a2e?style=for-the-badge&logo=gnubash&logoColor=BB86FC"/>
+
+</p>
+---
+
+<h2 align="center">🟣 Practical Work</h2>
+
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+<b>🧪 Lab Development</b><br><br>
+Vulnerable Environments<br>
+SQLi • XSS • Auth Flaws<br>
+Attack Simulation
+</td>
+
+<td align="center" width="33%">
+<b>🔍 Security Testing</b><br><br>
+Vulnerability Assessment<br>
+Weakness Analysis<br>
+Exploitation Paths
+</td>
+
+<td align="center" width="33%">
+<b>⚙️ Automation</b><br><br>
+Recon Scripts<br>
+Scanning Automation<br>
+Workflow Optimization
+</td>
+
+</tr>
+</table>
+---
+
+<h2 align="center">🟣 Key Projects</h2>
+
+<table align="center">
+<tr>
+
+<td align="center" width="50%">
+<b>⚡ VulnAI</b><br><br>
+Automated Vulnerability<br>
+Detection & Remediation
+</td>
+
+<td align="center" width="50%">
+<b>🧠 Threat Intelligence</b><br><br>
+Attacker Behavior<br>
+Threat Pattern Analysis
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<b>🔐 JWT Learning App</b><br><br>
+Token-Based Auth<br>
+Security Analysis
+</td>
+
+<td align="center">
+<b>🧪 Cyber Lab Suite</b><br><br>
+SQLi • XSS • Auth Labs<br>
+Hands-on Simulation
+</td>
+
+</tr>
+</table>
+---
+
+<h2 align="center">🟣 Research Approach</h2>
+
+<p align="center">
+🔍 Recon → 📡 Enumeration → 🧠 Analysis → 💥 Exploitation → 📊 Impact → 🛠 Fix
+</p>
 
 ---
 
-## Domain Expertise
+<h2 align="center">🟣 Learning Methodology</h2>
 
-### Web Application Security
-
-* SQL Injection (authentication bypass, data extraction)
-* Cross-Site Scripting (reflected and stored)
-* Authentication and session management flaws
-* Input validation and business logic vulnerabilities
-
-### Network Penetration Testing
-
-* Network scanning and service enumeration
-* Service identification and exploitation
-* Firewall analysis and misconfiguration discovery
-
-### Active Directory Security
-
-* Enumeration of domain environments
-* Credential-based attack concepts
-* Understanding Kerberos-related attack vectors
-
-### API Security
-
-* Endpoint discovery and enumeration
-* Broken authentication and authorization flaws
-* Input validation issues in API requests
-
-### Android Security
-
-* Static and dynamic analysis fundamentals
-* Reverse engineering concepts
-* Identification of insecure storage and permission misuse
-
-### System / Machine Exploitation
-
-* Linux privilege escalation concepts
-* Misconfiguration-based exploitation
-* Local enumeration techniques
-
-### Security Operations (SOC)
-
-* Log analysis fundamentals
-* Threat detection concepts
-* Basic incident response workflow
+<p align="center">
+📘 Concept → 🧪 Simulation → 💥 Exploit → 🔍 Root Cause → 🛠 Secure
+</p>
 
 ---
 
-## Technical Skills
+<h2 align="center">🟣 Current Focus</h2>
 
-**Operating Systems**
-
-* Kali Linux
-* Ubuntu
-
-**Security Tools**
-
-* Nmap
-* Metasploit
-* Burp Suite
-* Wireshark
-
-**Programming and Scripting**
-
-* Python
-* Bash
+<p align="center">
+🔥 Advanced Web Exploitation &nbsp;|&nbsp;
+🏢 Active Directory Attacks &nbsp;|&nbsp;
+⚙️ Security Automation &nbsp;|&nbsp;
+🧪 Cyber Lab Development
+  cloud security 
+</p>
 
 ---
+<h2 align="center">🟣 Web Security Labs</h2>
 
-## Practical Work and Projects
+<table align="center">
+<tr>
 
-### Vulnerable Lab Development
+<td align="center" width="33%">
+<b>🧪 SQL Injection Lab</b><br><br>
+Query Manipulation<br>
+Auth Bypass<br>
+Data Extraction
+</td>
 
-* Designed and implemented controlled vulnerable environments
-* Simulated SQL Injection, XSS, and weak authentication scenarios
-* Used for exploitation practice and concept validation
+<td align="center" width="33%">
+<b>🧪 XSS Lab</b><br><br>
+Script Injection<br>
+Browser Execution<br>
+Payload Behavior
+</td>
 
-### Security Testing Practice
+<td align="center" width="33%">
+<b>🧪 CSRF Lab</b><br><br>
+Request Forgery<br>
+Session Abuse<br>
+User Impersonation
+</td>
 
-* Performed vulnerability assessments on simulated systems
-* Identified and analyzed common security weaknesses
-* Explored exploitation paths and remediation approaches
+</tr>
 
-### Automation and Scripting
+<tr>
 
-* Developed scripts for reconnaissance and scanning automation
-* Focused on improving efficiency in penetration testing workflows
+<td align="center">
+<b>🧪 SSRF Lab</b><br><br>
+Server Requests<br>
+Internal Network Access<br>
+Metadata Exploitation
+</td>
 
----
+<td align="center">
+<b>🧪 Auth & Access Lab</b><br><br>
+Login Flaws<br>
+IDOR<br>
+Privilege Escalation
+</td>
 
-## Key Projects
+<td align="center">
+<b>🧪 JWT Lab</b><br><br>
+Token Structure<br>
+Auth Flow<br>
+Security Weaknesses
+</td>
 
-### VulnAI
+</tr>
 
-Automated vulnerability assessment platform focused on detection, prioritization, and remediation of security issues in practical environments.
+<tr>
 
-### Threat Intelligence Project
+<td colspan="3" align="center">
+<b>🧪 OWASP Top 10 Lab</b><br><br>
+Complete Vulnerability Suite<br>
+Simulation-Based Learning
+</td>
 
-Focused on analyzing attacker behavior, threat patterns, and understanding real-world adversarial techniques.
-
-### JWT Learning Application
-
-Built to explore authentication mechanisms and token-based security, with practical implementation and analysis.
-
-### Cybersecurity Lab (HTML-based)
-
-Custom vulnerable lab designed for hands-on exploitation of SQL Injection, XSS, and authentication flaws.
-
----
-
-## Research Approach
-
-Structured offensive methodology:
-
-1. Identify attack surface
-2. Perform enumeration and data collection
-3. Analyze vulnerabilities and misconfigurations
-4. Simulate exploitation scenarios
-5. Evaluate impact and root cause
-6. Define and apply remediation strategies
-
----
-
-## Learning Methodology
-
-* Concept-driven learning mapped to real-world scenarios
-* Hands-on exploitation followed by root cause analysis
-* Focus on both attacker and defender perspectives
-* Lab-based approach for repeatable and practical understanding
-
----
-
-## Current Focus
-
-* Advanced web exploitation techniques
-* Active Directory attack chains
-* Security automation and workflow optimization
-* Development of structured cybersecurity training labs
-
----
-
-## Lab Demonstrations
-
-Planned demonstrations include:
-
-* SQL Injection exploitation scenarios
-* Cross-Site Scripting payload execution
-* Network scanning and enumeration results
-* Vulnerability assessment outputs
-
----
-
-## GitHub Metrics
-
-GitHub activity and statistics integrated using:
-
-* github-readme-stats
-* streak-stats
+</tr>
+</table>
 
 ---
 
